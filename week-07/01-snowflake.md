@@ -1,0 +1,1 @@
+https://www.udemy.com/course/snowflake-dbt-a-hands-on-guide/?couponCode=KEEPLEARNING
