@@ -6,6 +6,8 @@
 *   **Portability:** Built using the open-source **Apache Beam** SDK, allowing you to write pipelines in your language of choice (Java or Python) and run them anywhere.
 *   **Dual Processing:** Natively supports both **streaming** (real-time) and **batch** processing.
 
+![](/assets\images\dataflow_example.png)
+
 ---
 
 ## How Dataflow Works

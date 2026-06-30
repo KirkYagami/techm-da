@@ -13,3 +13,14 @@
 
 01: Bias and Variance (StatQuest videp): https://youtu.be/EuBBz3bI-aA
 
+---
+
+## Snowflake:
+1. https://www.udemy.com/course/snowflake-mastering-performance-pipelines-best-practices/learn/lecture/55982079#overview
+2. https://www.udemy.com/course/snowflake-masterclass/?couponCode=MT260629G2
+
+## LookML
+1. https://www.udemy.com/course/looker-learning-tutorial-for-beginners/?couponCode=MT260629G2
+2. https://www.udemy.com/course/looker-complete-guide-to-google-looker-lookml-developer/?couponCode=MT260629G2
+
+
