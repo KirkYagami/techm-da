@@ -11,7 +11,7 @@
 ## Ml
 ---
 
-01: Bias and Variance (StatQuest videp): https://youtu.be/EuBBz3bI-aA
+01: Bias and Variance (StatQuest video): https://youtu.be/EuBBz3bI-aA
 
 ---
 
